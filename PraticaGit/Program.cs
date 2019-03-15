@@ -12,6 +12,7 @@ namespace PraticaGit
         {
             Console.WriteLine("Pratica de git");
             Console.WriteLine("Nova frase de edicao");
+            Console.WriteLine("Oi tudo bem");
         }
     }
 }
